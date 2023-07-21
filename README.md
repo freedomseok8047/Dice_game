@@ -4,4 +4,4 @@
 
 - HTML 이벤트
 - Javascript 실행
-- [사이트 배포] (https://freedomseok8047.github.io/Dice_game/)
+- [사이트 배포] ()
