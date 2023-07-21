@@ -27,7 +27,7 @@ function setDiceImages() {
   } else if (x < y) {
     h2.innerText = "Player2 Wins!🚩";
   } else {
-    h2.innerText = "🤜🏻Draw!🤛🏻 ";
+    h2.innerText = "🤜🏻Draw!🤛🏻";
   }
   p.innerText = "Refresh or Press any key!";
 }
